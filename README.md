@@ -1,5 +1,5 @@
 # AutoClearLagg
-Autoclearlagg fix str_replace dan bisa di pakai di php7 dan 8
+Autoclearlagg fix str_replace work in php7 dan 8
 
 # Force Clearlagg
 Command | Alias | Default
